@@ -92,13 +92,13 @@ This repository documents my learning journey through Linux system administratio
 1. **Clone this repository**
 ```bash
 git clone https://github.com/Satyanarayan4434/linux-devops-aws-journey.git
-cd linux-learning-journey
+cd linux-devops-aws-journey
 ```
 
 2. **Follow day-by-day documentation**
 ```bash
 # Start with Day 01
-cat Day-01-linux-basics.md
+Day-01-linux-basics.md
 ```
 
 3. **Practice commands in safe environment**
